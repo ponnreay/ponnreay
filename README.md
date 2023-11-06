@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ponnreay/ponnreay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
+</p>
+  
 
-Here are some ideas to get you started:
+## <h3 align="left">My GitHub Stats</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponnreay&layout=compact&title_color=9333ea&text_color=e5e7eb&icon_color=86198f&bg_color=171c28)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ponnreay&label=Profile%20views&color=9333ea&style=flat" alt="ponnreay" />
+</p>
